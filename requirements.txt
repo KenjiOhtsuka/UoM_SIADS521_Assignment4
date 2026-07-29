@@ -1,0 +1,9 @@
+hdbscan<0.8.40
+pandas
+numpy
+ipywidgets
+anywidget
+matplotlib
+seaborn
+scikit-learn
+ipywidgets
