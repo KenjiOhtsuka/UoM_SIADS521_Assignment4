@@ -12,3 +12,6 @@ This repository contains 4 Jupyter Notebooks:
   - To see the interactive dashboard, it needs to run all code cells because it uses ipywidget.
 - dashboard.ipynb
   - Dashboard extracted from assignment4.ipynb for convenience. We can run the dashboard directly without executing the entire original notebook.
+ 
+Public dashboard environment:
+[https://uom-siads521-assignment4-765679345354.northamerica-northeast2.run.app/lab/tree/work/dashboard.ipynb](https://uom-siads521-assignment4-765679345354.northamerica-northeast2.run.app/lab/tree/work/dashboard.ipynb)
