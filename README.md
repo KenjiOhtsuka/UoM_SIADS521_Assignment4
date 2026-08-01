@@ -15,6 +15,6 @@ This repository contains 4 Jupyter Notebooks:
  
 ## Public dashboard environment
 
-[https://uom-siads521-assignment4-765679345354.northamerica-northeast2.run.app/lab/tree/work/dashboard.ipynb](https://uom-siads521-assignment4-765679345354.northamerica-northeast2.run.app/lab/tree/work/dashboard.ipynb
+[https://uom-siads521-assignment4-765679345354.northamerica-northeast2.run.app/lab/tree/work/dashboard.ipynb](https://uom-siads521-assignment4-765679345354.northamerica-northeast2.run.app/lab/tree/work/dashboard.ipynb)
 
 This environment has limited resources, so other notebooks cannot be run fully.
